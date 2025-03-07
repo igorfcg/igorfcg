@@ -1,4 +1,4 @@
-# Hi there my name is Igor França Candido 👋
+# Hi there my name is Igor França 👋
 
 I'm a full-stack developer with a passion for building efficient, scalable, and user-friendly applications. I specialize in modern JavaScript ecosystems like **React**, **Node.js**, and **Next.js**, and I thrive on solving complex problems with clean, maintainable code.
 
