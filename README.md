@@ -10,7 +10,7 @@ Here’s a breakdown of the tools and technologies I work with:
   - JavaScript (ES6+)
   - HTML5
   - CSS3
-
+  - MySQL
 - **Frameworks & Libraries:**
   - **Node.js**: For building fast and scalable backend services.
   - **React**: My go-to for creating dynamic, component-based UIs.
@@ -19,8 +19,6 @@ Here’s a breakdown of the tools and technologies I work with:
   - **Tailwind CSS**: For rapid, utility-first styling.
 
 - **Tools & Platforms:**
-  - **Lighthouse**: To ensure performance and accessibility.
-  - **Docker**: For containerized development and deployment.
   - **AWS**: For cloud-based infrastructure and services.
   - **Vercel**: For seamless deployment of frontend apps.
   - **Azure**: For enterprise-grade cloud solutions.
