@@ -51,7 +51,7 @@ I love collaborating with teams, sharing ideas, and tackling challenges together
 
 Let’s connect! You can reach me at:
 
-- [LinkedIn][(https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/igor-frança-808940348/)
+- [LinkedIn][https://www.linkedin.com/in/igor-frança-808940348/]
 - Email: igorfc211@gmail.com
 
 ## 🎉 Fun Fact
